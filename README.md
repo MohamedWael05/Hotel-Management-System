@@ -1,2 +1,2 @@
 # Hotel-Management-System
-Data Structure project 
+Data Structure project using java
